@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.AssemblyInfo.cs
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\bin\Debug\net8.0\Patika_Week5_Project.exe
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\bin\Debug\net8.0\Patika_Week5_Project.deps.json
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\bin\Debug\net8.0\Patika_Week5_Project.runtimeconfig.json
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\bin\Debug\net8.0\Patika_Week5_Project.dll
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\bin\Debug\net8.0\Patika_Week5_Project.pdb
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.dll
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\refint\Patika_Week5_Project.dll
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.pdb
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\Patika_Week5_Project.genruntimeconfig.cache
+C:\Users\caplo\source\repos\Patika_Week5_Project\Patika_Week5_Project\obj\Debug\net8.0\ref\Patika_Week5_Project.dll
